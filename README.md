@@ -16,10 +16,10 @@ Welcome to my GitHub page! I'm a data scientist with a proven track record in ut
 - Specialized in algorithmic transparency and ethical AI.
 
 ### Contract Professor - Open Institute of Technology (OPIT) 
-
-- Part-time professor in the Master of Applied Data Science and AI.
-- Courses: Applied Artificial Intelligence, Ethics in Artificial Intelligence, Applications in Data Science and Artificial Intelligence.
-
+Courses: 
+- Machine Learning (B.Sc. Computer Science)
+- Applied Artificial Intelligence / Applications in Data Science and AI (M.Sc. Data Science and AI)
+- Ethics and Regulations in Artificial Intelligence (M.Sc. Data Science and AI)
 
 
 ## Contact
