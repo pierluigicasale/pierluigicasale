@@ -1,32 +1,38 @@
-# Pierluigi Casale - Data Scientist and AI Innovator
+# Hello 👋 and Welcome on my GitHub Profile
 
-Welcome to my GitHub page! I'm a data scientist with a proven track record in utilizing data as a strategic asset to drive business value. My expertise lies in building AI solutions, developing analytics infrastructures, and creating data products.
+My name is Pierluigi. I'm a Data Scientist and AI Innovator, that builds product liked by people.
 
-## About Me
+▶️ I have a new YouTube channel [Artigiani del Dato](https://www.youtube.com/channel/UCilUPMMXNjJvpOZzSSO9SsQ) that I am populating with content related to Data Science, Artificial Intelligence, Ethics and Critical Thinking. Stay Tuned!
 
-- **Innovation in Action**: I specialize in making data-driven decisions a reality, leading teams in a fast-paced environment while ensuring ethical development and algorithmic transparency.
+📫 How to reach me:   
+<a href="https://www.linkedin.com/company/artigiani-del-dato"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<a href="https://www.tiktok.com/@artigianideldato"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>   
 
-- **Effective Communication**: An excellent communicator, I establish solid relationships with strategic partners and guide clients in adopting data-driven methods as decision-making tools.
+⚡ Fun fact: I'm a single mom of 4 dogs, 2 cats, 1 fish, 1 bearded dragon, 1 corn snake, 2 axolotls, and 1 child!
 
-## Work Experience
+📚 I have published a number of research papers and patents in the past. You can still check them out [here](https://scholar.google.com/citations?user=m43xyeYAAAAJ&hl=en).
 
-### High Class Consultant Data Science and AI - Self Employed @ [Artigiani del Dato](www.artigianideldato.it)
+## Something else about me
 
-- Remote consultancy on data science, analytics, and artificial intelligence.
-- Specialized in algorithmic transparency and ethical AI.
+### Profile
+- **10+ years of experience developing Data & AI products, and managing projects in-person and remotely:**. 
+  - Innovation Officer @ European Parliament DG-ITEC 
+  - Principal Data Scientist @ TomTom
+  - Lead Data Scientist @ IMEC-NL
+    
+- **15+ years’ experience teaching Data Science and AI, leading educational path development, and delivering professional development courses:**
+  - [OPIT](www.opit.com)
+  - [Jheronimous Academy of Data Science](www.jads.nl)
+  - [University of Barcelona](www.ub.edu)
+    
+- **Fresh-entered entrepreneur:**
+  - Founder of [Artigiani del Dato](www.artigianideldato.it), a cooperative of data scientists dedicated to creating a network of expert collaborators in the field of ethical Artificial Intelligence and Data Science. The mission of Artigiani del Dato is to provide high-quality consultancy to companies wishing to develop innovative solutions in compliance with ethical principles.
+  - Co-founder and Creator of [GiuriMatrix](www.giurimatrix.it) , the new legal assistant based on artificial intelligence. Giurimatrix is an innovative tool to support legal professionals, which allows them to carry out their work more efficiently and precisely. Thanks to the advanced technology with which Giurimatrix is equipped, industry professionals can improve the quality of their work, save precious time and increase their productivity. The answers are identified in the law with citation of the source. Doctrine and jurisprudence are used as means to find the answer.
 
-### Contract Professor - Open Institute of Technology (OPIT) 
-Courses: 
-- Machine Learning (B.Sc. Computer Science)
-- Applied Artificial Intelligence / Applications in Data Science and AI (M.Sc. Data Science and AI)
-- Ethics and Regulations in Artificial Intelligence (M.Sc. Data Science and AI)
 
 
-## Contact
-More info at my [LinkedIn Profile](linkedin.com/in/pierluigicasale)
 
-Feel free to reach out to me for collaborations, discussions, or inquiries at pierluigi@artigianideldato.it 
 
-Thank you for visiting!
+
 
 
