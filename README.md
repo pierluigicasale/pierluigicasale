@@ -23,7 +23,7 @@ Welcome to my GitHub page! I'm a data scientist with a proven track record in ut
 
 
 ## Contact
-More info at my [LinedIn Profile](linkedin.com/in/pierluigicasale)
+More info at my [LinkedIn Profile](linkedin.com/in/pierluigicasale)
 
 Feel free to reach out to me for collaborations, discussions, or inquiries at pierluigi@artigianideldato.it 
 
